@@ -1,1 +1,1 @@
-# SGAN
+# AGAN
